@@ -1,0 +1,30 @@
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E01
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73097.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E02
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73228.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E03
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73323.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E04
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73435.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E05
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73635.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E06
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73802.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E07
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/73977.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C. Hikayesi S01-E08
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/74328.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E01
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80331.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E02
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80459.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E03
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80527.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E04
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80609.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E05
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80683.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E06
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80759.mkv
+#EXTINF:-1,Cekic ve Gul Bir Behzat C Hikayesi S02-E07
+http://x62p35.one:8080/movie/b52v34n91b27/e54x03102023/80925.mkv
